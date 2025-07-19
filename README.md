@@ -1,4 +1,4 @@
-# Public-Datasets
+# Public Datasets
 
 1. Kanye West - YouTube Comments Sentiment Analysis
 
