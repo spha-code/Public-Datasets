@@ -1,7 +1,10 @@
 # Public Datasets
 
-1. Kanye West – YouTube Comments Sentiment Analysis
+1. YE Kanye West – YouTube Comments Sentiment Analysis
 A dataset containing YouTube video details, user comments, and sentiment analysis for the song "Stronger" by Kanye West. This dataset can be used for text mining, sentiment classification, natural language processing (NLP) tasks, and more.
+
+https://www.youtube.com/watch?v=PsO6ZnUZI0g
+Scraped with Python via YouTube Data API v3
 
 🔗 Download
 - GitHub:
