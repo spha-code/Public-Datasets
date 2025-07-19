@@ -4,11 +4,11 @@
 A dataset containing YouTube video details, user comments, and sentiment analysis for the song "Stronger" by Kanye West. This dataset can be used for text mining, sentiment classification, natural language processing (NLP) tasks, and more.
 
 🔗 Download
-GitHub Repository:
-Kanye West – YouTube Comments Sentiment Analysis (GitHub)
+- GitHub:
+https://github.com/spha-code/Public-Datasets/tree/main/Kanye%20West%20-%20YouTube%20Comments%20Sentiment%20Analysis
 
-Kaggle Dataset:
-Kanye West – YouTube Comments Sentiment Analysis (Kaggle)
+- Kaggle:
+https://www.kaggle.com/datasets/sphacode/kanye-west-youtube-comments-sentiment-analysis
 
 📂 Files Included
 
