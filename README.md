@@ -11,9 +11,10 @@ Kaggle Dataset:
 Kanye West – YouTube Comments Sentiment Analysis (Kaggle)
 
 📂 Files Included
-video_details_Kanye West_Stronger.csv – Metadata and details about the YouTube video.
 
-video_comments_Kanye West_Stronger.csv – Raw YouTube comments extracted from the video.
+- video_details_Kanye West_Stronger.csv – Metadata and details about the YouTube video.
 
-sentiment_analysis.csv – Processed dataset with sentiment labels (e.g., positive, neutral, negative).
+- video_comments_Kanye West_Stronger.csv – Raw YouTube comments extracted from the video.
+
+- sentiment_analysis.csv – Processed dataset with sentiment labels (e.g., positive, neutral, negative).
 
